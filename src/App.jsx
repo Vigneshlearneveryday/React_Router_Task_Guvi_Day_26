@@ -3,7 +3,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 
-import Menu from "./Components/Menu";
+import Menu from "./components/Menu";
 import AllCom from "./Components/AllCom";
 import FullStackDev from "./Components/FullStackDev";
 import DataScience from "./Components/DataScience";

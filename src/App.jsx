@@ -4,13 +4,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
 
 import Menu from "./components/Menu";
-import AllCom from "./Components/AllCom";
+import AllCom from "./components/AllCom";
 import FullStackDev from "./Components/FullStackDev";
 import DataScience from "./Components/DataScience";
 import CyberSecurity from "./Components/CyberSecurity";
 import Career from "./Components/Career";
 import Footer from "./Components/Footer";
-import { CardData } from "./data";
+import { CardData } from "./data.jsx";
 
 function App() {
   let data = CardData;

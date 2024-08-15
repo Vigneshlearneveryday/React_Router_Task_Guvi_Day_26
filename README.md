@@ -1,8 +1,15 @@
-# React + Vite
+# React Router Task - Day 26
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Introduction
+Welcome to the React Router task of Day 26! In this task, we'll explore how to implement routing in a React application using React Router. React Router enables us to build a Single Page Application (SPA) with navigation capabilities that don't require a page refresh.
+---
+## Task Overview
+In this task, you will:🚀
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Install React Router: Set up React Router in your project.
+- Create Routes: Define different routes and their respective components.
+- Add Navigation: Implement navigation links to switch between different routes.
+- Style the Application: Ensure the application is visually appealing and functional.
+---
+Endpoint : 
+---

@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-Cards.propTypes = {
+Card.propTypes = {
   data: PropTypes.shape({
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,

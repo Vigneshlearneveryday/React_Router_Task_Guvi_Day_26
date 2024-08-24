@@ -9,7 +9,7 @@ import FullStackDev from "./components/FullStackDev";
 import DataScience from "./components/DataScience";
 import CyberSecurity from "./components/CyberSecurity";
 import Career from "./components/Career";
-import Footer from ".components/Footer";
+import Footer from "./components/Footer";
 import { CardData } from "./data.jsx";
 
 function App() {
